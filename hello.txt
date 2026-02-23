@@ -1,3 +1,7 @@
 Hello . This is my file
 Stp sessions
+<<<<<<< HEAD
 good Morning from master branch
+=======
+good Morning from feature branch 
+>>>>>>> feature-1
